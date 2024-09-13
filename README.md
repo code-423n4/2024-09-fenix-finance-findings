@@ -1,4 +1,4 @@
-# [Sponsorname] Audit
+# Fenix Finance Audit
 
 Audit findings are submitted to this repo.
 
