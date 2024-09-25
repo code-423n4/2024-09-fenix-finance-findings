@@ -1,0 +1,8 @@
+{
+  "contest": 440,
+  "handle": "KupiaSec",
+  "risk": "3",
+  "title": "The `VotingEscrowUpgradeableV2.onDetachFromManagedNFT` function can lead to incorrect calculations of voting power",
+  "issueId": 14,
+  "issueUrl": "https://github.com/code-423n4/2024-09-fenix-finance-findings/issues/14"
+}
