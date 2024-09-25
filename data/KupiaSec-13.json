@@ -1,0 +1,8 @@
+{
+  "contest": 440,
+  "handle": "KupiaSec",
+  "risk": "3",
+  "title": "In the `VotingEscrowUpgradeableV2.onDetachFromManagedNFT` function, `supply` should be increased by `lockedRewards`",
+  "issueId": 13,
+  "issueUrl": "https://github.com/code-423n4/2024-09-fenix-finance-findings/issues/13"
+}
