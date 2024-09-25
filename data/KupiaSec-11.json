@@ -1,0 +1,8 @@
+{
+  "contest": 440,
+  "handle": "KupiaSec",
+  "risk": "3",
+  "title": "`boostedValue` should be added to `permanentTotalSupply` for permanently locked tokens",
+  "issueId": 11,
+  "issueUrl": "https://github.com/code-423n4/2024-09-fenix-finance-findings/issues/11"
+}
