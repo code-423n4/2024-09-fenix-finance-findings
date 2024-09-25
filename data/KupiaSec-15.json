@@ -1,0 +1,8 @@
+{
+  "contest": 440,
+  "handle": "KupiaSec",
+  "risk": "3",
+  "title": "The `killGauge` function should set the `weightsPerEpoch` value to zero",
+  "issueId": 15,
+  "issueUrl": "https://github.com/code-423n4/2024-09-fenix-finance-findings/issues/15"
+}
