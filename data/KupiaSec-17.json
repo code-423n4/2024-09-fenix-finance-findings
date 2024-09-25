@@ -1,0 +1,8 @@
+{
+  "contest": 440,
+  "handle": "KupiaSec",
+  "risk": "3",
+  "title": "The `VoterUpgradeableV2.createV3Gauge` function incorrectly uses `v2GaugeFactory` instead of `v3GaugeFactory`",
+  "issueId": 17,
+  "issueUrl": "https://github.com/code-423n4/2024-09-fenix-finance-findings/issues/17"
+}
